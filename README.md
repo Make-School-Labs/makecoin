@@ -1,5 +1,7 @@
 # makecoin
 
+ [![Build Status](https://img.shields.io/github/workflow/status/Make-School-Labs/makecoin/brownie%20workflow)](https://github.com/Make-School-Labs/makecoin/actions) [![Coverage Status](https://img.shields.io/codecov/c/github/Make-School-Labs/makecoin)](https://codecov.io/gh/Make-School-Labs/makecoin)
+
 ## Installation
 
 1. Navigate to the directory where you store your Git repositories.
